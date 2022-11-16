@@ -13,3 +13,10 @@ It uses swfmill and gfxexporter.
 Swfmill can be found at https://www.swfmill.org/releases/
 GFxExporter is a private tool I made reverse engineering Rockstars font loader and allocation system.
 You can find a similar tool with the same functionality here: https://www.swfmill.org/releases/
+# How do I use this?
+This is a command line based tool. The useage is the following:
+gfxfontcreation [filename].ttf [fontId]
+EX: GFxFontCreation.exe example-font.ttf Example
+# Are other font types supported?
+No. They are not currently supported.
+Swfmill would have to be modified and changed with support to both read the font type and properly inport said font type
