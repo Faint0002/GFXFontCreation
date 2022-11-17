@@ -20,3 +20,6 @@ EX: GFxFontCreation.exe example-font.ttf Example
 # Are other font types supported?
 No. They are not currently supported.
 Swfmill would have to be modified and changed with support to both read the font type and properly inport said font type
+# DISCLAIMER
+I do not condone anything that uses this code, or any of it's parent projects.
+Use at your own risk and you accept all responsiblities relating to this project.
